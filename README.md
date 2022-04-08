@@ -1,2 +1,2 @@
 
-Code and scriptd used to generate the data for the Axioloid_Manuscript
+Code and scripts used to generate the data for the Axioloid_Manuscript
